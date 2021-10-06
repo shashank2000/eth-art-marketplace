@@ -1,0 +1,66 @@
+[
+  {
+    "id": 0,
+    "name": "David",
+    "picture": "images/david.jpeg",
+    "age": 1440,
+    "breed": "Donatello",
+    "location": "Museo Nazionale del Bargello, Florence"
+  },
+  {
+    "id": 1,
+    "name": "Marriage of the Virgin",
+    "picture": "images/marriage-of-virgin.jpeg",
+    "age": 1504,
+    "breed": "Raphael",
+    "location": "Pinacoteca di Brera"
+  },
+  {
+    "id": 2,
+    "name": "The Sistine Madonna",
+    "picture": "images/sistine-madonna.jpeg",
+    "age": 1512,
+    "breed": "Raphael",
+    "location": "Gemäldegalerie Alte Meister, Dresden"
+  },
+  {
+    "id": 3,
+    "name": "Lady with an Ermine",
+    "picture": "images/lady-with-ermine.jpeg",
+    "age": 1489,
+    "breed": "Leonardo da Vinci",
+    "location": "Krakow, Poland"
+  },
+  {
+    "id": 4,
+    "name": "The Last Judgment",
+    "picture": "images/last-judgment.jpeg",
+    "age": 1541,
+    "breed": "Michelangelo",
+    "location": "Vatican City"
+  },
+  {
+    "id": 5,
+    "name": "Portrait of Ginevra Benci",
+    "picture": "images/ginevra.jpeg",
+    "age": 1474,
+    "breed": "Leonardo da Vinci",
+    "location": "National Gallery of Art, Washington DC"
+  },
+  {
+    "id": 6,
+    "name": "Adoration of the Magi",
+    "picture": "images/adoration-of-magi.jpeg",
+    "age": 1481,
+    "breed": "Leonardo da Vinci",
+    "location": "Uffizi Gallery"
+  },
+  {
+    "id": 0,
+    "name": "The Birth of Venus",
+    "picture": "images/last-judgment.jpeg",
+    "age": 1485,
+    "breed": "Sandro Botticelli",
+    "location": "Uffizi Gallery"
+  }
+]
